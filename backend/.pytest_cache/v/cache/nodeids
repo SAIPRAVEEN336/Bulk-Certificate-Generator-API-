@@ -1,0 +1,14 @@
+[
+  "tests/test_api.py::TestBulkCertificateGenerator::test_certificate_generation_and_pdf_integrity",
+  "tests/test_api.py::TestBulkCertificateGenerator::test_create_generation_job_success",
+  "tests/test_api.py::TestBulkCertificateGenerator::test_handling_individual_certificate_failure",
+  "tests/test_api.py::TestBulkCertificateGenerator::test_input_validation_empty_recipient_name",
+  "tests/test_api.py::TestBulkCertificateGenerator::test_input_validation_empty_recipients_list",
+  "tests/test_api.py::TestBulkCertificateGenerator::test_input_validation_invalid_email",
+  "tests/test_api.py::TestBulkCertificateGenerator::test_input_validation_missing_required_fields",
+  "tests/test_api.py::TestBulkCertificateGenerator::test_job_status_and_progress_tracking",
+  "tests/test_api.py::TestBulkCertificateGenerator::test_list_jobs_endpoint",
+  "tests/test_api.py::TestBulkCertificateGenerator::test_retrieve_generated_certificate_pdf",
+  "tests/test_api.py::TestBulkCertificateGenerator::test_retrieve_generated_certificates_zip",
+  "tests/test_api.py::TestBulkCertificateGenerator::test_retrieve_nonexistent_job_returns_404"
+]

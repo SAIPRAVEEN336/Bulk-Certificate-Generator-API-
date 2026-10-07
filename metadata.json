@@ -1,0 +1,6 @@
+{
+  "name": "CertiFlow - Bulk Certificate Generator",
+  "description": "Production-grade bulk certificate generation engine with relational job tracking, fault isolation, vector PDF generator, and interactive API documentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
